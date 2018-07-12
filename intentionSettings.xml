@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Boolean/Remove Boolean Equality" />
+    <ignoreAction name="Java/Boolean/Simplify boolean expression" />
+    <ignoreAction name="XML/Collapse empty tag" />
+  </component>
+</application>
