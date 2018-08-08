@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
-      <mapping pattern="const" type="PLAIN_TEXT" />
-      <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
       <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
+      <mapping pattern="ApiService" type="PLAIN_TEXT" />
       <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
+      <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
+      <mapping pattern="const" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
