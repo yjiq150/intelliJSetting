@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.linecorp.com/" />
+          <token>df98df98dfcbdf99dfcfdfccdfc8df99dfcedfccdf93df9cdf9fdfcfdf9fdf93df98df9ddf9cdf9bdfcedf93df92df93df9cdfcedfcedfcedf9adf9fdf99dfcfdf9bdf9fdfcfdfcedf9adf99df9fdf98</token>
+          <option name="name" value="sonar_line" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
