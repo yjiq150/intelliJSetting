@@ -1,4 +1,4 @@
-<code_scheme name="LINE Music v0.1">
+<code_scheme name="LINE Music v0.1" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1048576" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1048576" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -12,6 +12,13 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1048576" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1048576" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_KEEP_BLANK_LINES" value="1048576" />
@@ -40,6 +47,11 @@
     <option name="RIGHT_MARGIN" value="200" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
