@@ -9,5 +9,6 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
   </component>
 </application>
