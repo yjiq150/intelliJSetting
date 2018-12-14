@@ -4,7 +4,7 @@
     <property name="created">2018-04-04T01:10:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-09-09T00:03:21</property>
+    <property name="modified">2018-12-14T22:04:56</property>
     <property name="originalScheme">yjiq150</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -13,6 +13,9 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <colors>
+    <option name="WHITESPACES" value="600ff" />
+  </colors>
   <attributes>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
