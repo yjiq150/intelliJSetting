@@ -13,10 +13,10 @@
     <mask>*.xml</mask>
     <mask>*.proto</mask>
     <mask>!*.proto, !*.pb.js</mask>
-    <mask>!*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.conf</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
+    <mask>!*.xml</mask>
   </component>
 </application>
