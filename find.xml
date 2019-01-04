@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,11 +14,12 @@
     <mask>*.xml</mask>
     <mask>*.proto</mask>
     <mask>!*.proto, !*.pb.js</mask>
-    <mask>*.yml</mask>
     <mask>*.conf</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
     <mask>!*.pb.js</mask>
     <mask>!*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
