@@ -10,7 +10,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.java</mask>
-    <mask>*.proto</mask>
     <mask>!*.proto, !*.pb.js</mask>
     <mask>*.conf</mask>
     <mask>*.gradle</mask>
@@ -23,5 +22,7 @@
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>Dockerfile</mask>
+    <mask>groovy</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
