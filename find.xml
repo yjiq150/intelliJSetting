@@ -25,5 +25,6 @@
     <mask>groovy</mask>
     <mask>*.proto</mask>
     <mask>*.kt</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
