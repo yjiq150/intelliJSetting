@@ -4,12 +4,13 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
-      <mapping pattern="const" type="PLAIN_TEXT" />
-      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
+      <mapping pattern="get_fare_types" type="JavaScript" />
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
+      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
+      <mapping pattern="const" type="PLAIN_TEXT" />
+      <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
       <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
       <mapping pattern="ApiService" type="PLAIN_TEXT" />
-      <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
   </component>
