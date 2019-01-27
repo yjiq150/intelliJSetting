@@ -15,7 +15,6 @@
     <mask>*.gradle</mask>
     <mask>!*.pb.js</mask>
     <mask>*.yml</mask>
-    <mask>*.yaml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.md</mask>
@@ -26,5 +25,6 @@
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.proto</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
