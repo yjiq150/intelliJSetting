@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.xml, !**/generated/**" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,11 +21,12 @@
     <mask>*.md</mask>
     <mask>Dockerfile</mask>
     <mask>groovy</mask>
-    <mask>!*.xml</mask>
     <mask>*.groovy</mask>
     <mask>*.kt</mask>
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*.proto</mask>
+    <mask>!*.xml</mask>
+    <mask>!*.xml, !**/generated/**</mask>
   </component>
 </application>
