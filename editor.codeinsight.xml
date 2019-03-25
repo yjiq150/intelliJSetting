@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_METHOD_CHAIN_TYPES_INLINE" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy" />
   </component>
