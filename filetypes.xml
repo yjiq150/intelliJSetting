@@ -15,6 +15,7 @@
       <mapping pattern="ApiService" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
+      <mapping pattern="CreateReservationResponse" type="XML" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
   </component>
