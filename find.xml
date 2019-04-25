@@ -30,9 +30,9 @@
     <mask>*test.js</mask>
     <mask>package.json</mask>
     <mask>*.xml</mask>
-    <mask>*.proto</mask>
     <mask>!*.pb.js,!*Proto.java</mask>
     <mask>!*.pb.js,!*Proto.java,!**/generated/**/*.java</mask>
+    <mask>*.proto</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
   </component>
 </application>
