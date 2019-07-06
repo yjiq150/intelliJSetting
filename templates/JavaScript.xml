@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="_" value="const _ = require('lodash');" description="Insert lodash require" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
