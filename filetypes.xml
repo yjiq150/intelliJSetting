@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="get_fare_types" type="JavaScript" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
@@ -14,10 +13,8 @@
       <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
       <mapping pattern="es_fare_schedule_transformer" type="PLAIN_TEXT" />
       <mapping pattern="ApiService" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
       <mapping pattern="CreateReservationResponse" type="XML" />
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
   </component>
 </application>
