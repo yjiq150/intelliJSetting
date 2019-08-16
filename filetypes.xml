@@ -13,10 +13,9 @@
       <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping ext="proto_bak" type="PROTO" />
-      <removed_mapping ext="proto" approved="true" type="PROTO" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
       <mapping pattern="CreateReservationResponse" type="XML" />
+      <removed_mapping ext="proto_bak" approved="true" type="PROTO" />
       <removed_mapping ext="proto" approved="true" type="PROTO" />
     </extensionMap>
   </component>
