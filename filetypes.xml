@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="get_fare_types" type="JavaScript" />
+      <mapping pattern="push_dispatcher_test" type="PLAIN_TEXT" />
       <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
       <mapping pattern="const" type="PLAIN_TEXT" />
       <mapping pattern="es_fare_schedule_transformer" type="PLAIN_TEXT" />
