@@ -31,8 +31,8 @@
     <mask>*.xml</mask>
     <mask>!*.pb.js,!*Proto.java</mask>
     <mask>!*.pb.js,!*Proto.java,!**/generated/**/*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.proto</mask>
+    <mask>*.gradle</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
   </component>
 </application>
