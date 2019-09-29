@@ -18,6 +18,7 @@
       <removed_mapping ext="proto" approved="true" type="PROTO" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
       <mapping pattern="CreateReservationResponse" type="XML" />
+      <mapping pattern="hpa" type="YAML" />
       <removed_mapping ext="proto_bak" approved="true" type="PROTO" />
       <removed_mapping ext="proto" approved="true" type="PROTO" />
     </extensionMap>
