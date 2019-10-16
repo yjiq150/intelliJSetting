@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="!*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -34,5 +33,6 @@
     <mask>*.proto</mask>
     <mask>*.gradle</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
+    <mask>!*.js</mask>
   </component>
 </application>
