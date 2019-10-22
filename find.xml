@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -29,10 +29,10 @@
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.proto</mask>
-    <mask>*.gradle</mask>
     <mask>!*.js</mask>
     <mask>!android/*.kt, !*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
