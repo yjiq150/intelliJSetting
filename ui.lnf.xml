@@ -5,6 +5,7 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1164" />
   </component>
 </application>
