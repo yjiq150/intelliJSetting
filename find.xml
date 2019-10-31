@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd" />
-    <mask>*.as</mask>
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj" />
     <mask>*.mxml</mask>
     <mask>*.java</mask>
     <mask>!*.proto, !*.pb.js</mask>
@@ -34,5 +32,7 @@
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java</mask>
     <mask>*.gradle</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd</mask>
+    <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift</mask>
+    <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj</mask>
   </component>
 </application>
