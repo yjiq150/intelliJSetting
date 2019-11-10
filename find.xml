@@ -2,9 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php" />
     <mask>*.java</mask>
     <mask>!*.proto, !*.pb.js</mask>
     <mask>*.conf</mask>
@@ -34,5 +35,6 @@
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj</mask>
+    <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php</mask>
   </component>
 </application>
