@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php, *.java" />
+    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php" />
     <mask>!*.proto, !*.pb.js</mask>
     <mask>*.conf</mask>
     <mask>!*.pb.js</mask>
@@ -32,7 +32,7 @@
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj</mask>
-    <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php, *.java</mask>
+    <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php</mask>
   </component>
 </application>
