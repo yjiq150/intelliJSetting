@@ -14,6 +14,7 @@
       <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
       <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
       <mapping pattern="es_fare_schedule_transformer" type="PLAIN_TEXT" />
+      <mapping pattern="nginx-ingress-config" type="PLAIN_TEXT" />
       <mapping pattern="ApiService" type="PLAIN_TEXT" />
       <mapping pattern="push_dispatcher_test" type="PLAIN_TEXT" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
