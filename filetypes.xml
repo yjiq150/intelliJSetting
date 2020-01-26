@@ -4,10 +4,11 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="get_fare_types" type="JavaScript" />
+      <mapping pattern="cert-manger" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="seed" type="PLAIN_TEXT" />
-      <mapping pattern="cert-manger" type="PLAIN_TEXT" />
       <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
       <mapping pattern="ReservationDetailResponse" type="PLAIN_TEXT" />
       <mapping pattern="const" type="PLAIN_TEXT" />
