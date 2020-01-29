@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj" />
-    <mask>!*.pb.js</mask>
+    <option name="FILE_MASK" value="*py" />
     <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*.md</mask>
@@ -34,5 +33,6 @@
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj,!*_ide_helper*.php</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj, !*.java</mask>
     <mask>!*.pb.js,!*Proto.java,!*ServiceGrpc.java,!*xsd, !*.swift, !*.pbxproj</mask>
+    <mask>*py</mask>
   </component>
 </application>
