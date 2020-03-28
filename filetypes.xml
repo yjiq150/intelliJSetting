@@ -11,9 +11,9 @@
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
       <mapping pattern="seed" type="PLAIN_TEXT" />
+      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="ReservationDetailResponse" type="PLAIN_TEXT" />
-      <mapping pattern="push_dispatcher_test" type="PLAIN_TEXT" />
       <mapping pattern="const" type="PLAIN_TEXT" />
       <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
       <mapping pattern="localStorageHelper" type="PLAIN_TEXT" />
@@ -21,7 +21,8 @@
       <mapping pattern="nginx-ingress-config" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="ApiService" type="PLAIN_TEXT" />
-      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
+      <mapping pattern="push_dispatcher_test" type="PLAIN_TEXT" />
+      <mapping pattern="nytGithubCrawler" type="PLAIN_TEXT" />
       <mapping pattern="ㅇㄹㄹㄹ" type="XML" />
       <mapping pattern="CreateReservationResponse" type="XML" />
       <mapping pattern="hpa" type="YAML" />
