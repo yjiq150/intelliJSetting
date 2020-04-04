@@ -10,9 +10,10 @@
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="videoEditor" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
-      <mapping pattern="seed" type="PLAIN_TEXT" />
-      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="seed" type="PLAIN_TEXT" />
+      <mapping pattern="cdcPressReleaseCrawler" type="PLAIN_TEXT" />
+      <mapping pattern="QuotationTemplateList" type="PLAIN_TEXT" />
       <mapping pattern="ReservationDetailResponse" type="PLAIN_TEXT" />
       <mapping pattern="const" type="PLAIN_TEXT" />
       <mapping pattern="reactNodeFinder" type="PLAIN_TEXT" />
